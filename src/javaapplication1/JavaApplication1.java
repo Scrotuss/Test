@@ -20,6 +20,7 @@ public class JavaApplication1 {
         Person p1 = new Person("culo", 3);
         
         System.out.println(p1.getName());
+        System.out.println("New print line for the new branch");
     }
     
 }
